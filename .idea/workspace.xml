@@ -624,7 +624,7 @@
       <option name="number" value="Default" />
       <updated>1452816825024</updated>
       <workItem from="1452816826410" duration="23000" />
-      <workItem from="1452816931961" duration="1495000" />
+      <workItem from="1452816931961" duration="1510000" />
     </task>
     <task id="LOCAL-00001" summary="Delete out">
       <created>1452817660681</created>
@@ -632,11 +632,17 @@
       <option name="project" value="LOCAL" />
       <updated>1452817660681</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Delete">
+      <created>1452836011571</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1452836011571</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1518000" />
+    <option name="totallyTimeSpent" value="1533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
@@ -674,7 +680,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Delete out" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete out" />
+    <MESSAGE value="Delete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
